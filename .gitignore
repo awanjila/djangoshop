@@ -2,3 +2,4 @@ jikoni/
 myshop/db.sqlite3
 myshop/products/
 myshop/media/
+myshop/shop/migrations
